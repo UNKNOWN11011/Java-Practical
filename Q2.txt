@@ -1,0 +1,4 @@
+//        if (numbers == null || numbers.length == 0) {
+//            throw new IllegalArgumentException("Array is empty or null.");
+//        }
+//   
